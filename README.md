@@ -1,3 +1,2 @@
-# 0011_Distance_Module_GP2Y0A60SZ0F
-
+# 0011_Distance_Module_TMF8828
 You are seeing a large number of widely used Distance modules in electronic development kits. More information coming soon...
